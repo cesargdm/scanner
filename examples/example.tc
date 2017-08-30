@@ -1,0 +1,14 @@
+// Inline comment
+/* This is a test of a comment */
+{
+ int i;
+ float b;
+    /*
+     *
+     * A multi-line comment!
+     */
+
+     i := 0;
+     while(i < N)
+         i++;
+}
