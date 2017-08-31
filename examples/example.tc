@@ -7,8 +7,10 @@
      *
      * A multi-line comment!
      */
+    .
 
      i := 0;
      while(i < N)
          i++;
+    .
 }
